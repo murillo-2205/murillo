@@ -1,6 +1,4 @@
 
-
-
 a= 5
 b=10
 mensaje= 'vamos a comenzar'
